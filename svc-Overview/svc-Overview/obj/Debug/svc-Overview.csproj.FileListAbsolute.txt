@@ -1,0 +1,6 @@
+C:\vs\Overview\svc-Overview\svc-Overview\bin\Debug\svc-Overview.exe.config
+C:\vs\Overview\svc-Overview\svc-Overview\bin\Debug\svc-Overview.exe
+C:\vs\Overview\svc-Overview\svc-Overview\bin\Debug\svc-Overview.pdb
+C:\vs\Overview\svc-Overview\svc-Overview\obj\Debug\svc-Overview.csprojAssemblyReference.cache
+C:\vs\Overview\svc-Overview\svc-Overview\obj\Debug\svc-Overview.exe
+C:\vs\Overview\svc-Overview\svc-Overview\obj\Debug\svc-Overview.pdb
